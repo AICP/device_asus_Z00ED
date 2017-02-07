@@ -1,5 +1,7 @@
-# Display
-ro.sf.lcd_density=320
-
-# Set min freq
-ro.min_freq_0=400000
+# Hardware Info
+ro.device.chipset=Qualcomm MSM8916 Snapdragon 410/Qualcomm MSM8939 Snapdragon 615
+ro.device.cpu=Quad-core 1.2 GHz Cortex-A53/Quad-core 1.7 GHz Cortex-A53 & quad-core 1.0 GHz Cortex-A53
+ro.device.gpu=Adreno 405
+ro.device.rear_cam=13 MP
+ro.device.front_cam=5 MP
+ro.device.screen_res=720x1280
