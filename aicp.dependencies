@@ -1,11 +1,11 @@
 [
   {
-    "repository":  "AICP/android_device_asus_msm8916-common",
+    "repository":  "AICP/device_asus_msm8916-common",
     "target_path": "device/asus/msm8916-common",
     "branch":      "n7.1"
   },
   {
-   "repository":  "AICP/android_kernel_asus_msm8916",
+   "repository":  "AICP/kernel_asus_msm8916",
    "target_path": "kernel/asus/msm8916",
    "branch":      "n7.1"
   },
